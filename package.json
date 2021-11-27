@@ -1,0 +1,38 @@
+{
+    "name": "chrome-p1",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint",
+        "build-watch": "vue-cli-service build-watch --mode development"
+    },
+    "dependencies": {
+        "bulma": "^0.9.3",
+        "core-js": "^3.6.5",
+        "vue": "^2.6.11"
+    },
+    "devDependencies": {
+        "@fullhuman/postcss-purgecss": "^3.0.0",
+        "@vue/cli-plugin-babel": "~4.5.0",
+        "@vue/cli-plugin-eslint": "~4.5.0",
+        "@vue/cli-service": "~4.5.0",
+        "@vue/eslint-config-standard": "^5.1.2",
+        "babel-eslint": "^10.1.0",
+        "copy-webpack-plugin": "^4.6.0",
+        "eslint": "^6.7.2",
+        "eslint-plugin-import": "^2.20.2",
+        "eslint-plugin-node": "^11.1.0",
+        "eslint-plugin-promise": "^4.2.1",
+        "eslint-plugin-standard": "^4.0.0",
+        "eslint-plugin-vue": "^6.2.2",
+        "node-sass": "^6.0.0",
+        "postcss": "^7.0.35",
+        "sass-loader": "^10.2.0",
+        "vue-cli-plugin-chrome-extension-cli": "~1.0.8",
+        "vue-template-compiler": "^2.6.11"
+    },
+    "_id": "chrome-p1@0.1.0",
+    "readme": "ERROR: No README data found!"
+}
